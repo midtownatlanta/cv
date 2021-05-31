@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: Andale Mono;
+    font-size: 16px;
+    text-align: center; 
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    border-bottom: solid;
+}
+
+h2{
+    font-size: 30px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+/*unvisited link*/
+a:link {
+    color: white;
+}
+
+/*visted link*/
+a:visited {
+    color:darkgreen
+}
